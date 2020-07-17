@@ -13,12 +13,12 @@
 
 }
 
-body {
+/* body {
     background: #f9563a;
     color: white;
     min-height: 100vh;
     margin-bottom: 2rem;
-}
+} */
 
 header {
     text-shadow: 2px 2px 15px rgb(176, 230, 255);
